@@ -1,4 +1,4 @@
-# images
+# images (Learner project)
 
 ## Project setup
 ```
@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Used https://api.imgur.com/ to build image uploader
